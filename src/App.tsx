@@ -14,7 +14,7 @@ function App() {
         <SlugCanvas />
       </div>
       <div className="w-full h-full z-10 flex flex-col">
-        <a href="/">
+        <a href="/numekudi">
           <p className="text-2xl md:text-6xl  font-bold text-center py-2">
             ヌメクヂのポートフォリオ
           </p>
