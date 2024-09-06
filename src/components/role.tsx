@@ -18,7 +18,7 @@ const Role = () => {
         <section className="p-4  rounded-lg shadow-md">
           <h2 className="text-2xl font-semibold text-gray-800">SIer時代</h2>
           <p className="text-gray-700">
-            SIerをしていました。画像処理に携わり、カメラや照明の選定、画像処理プログラムの作成に取り組みました。C言語ライブラリをRustやPythonから扱う方法を自力で学びました。
+            SIerをしていました。画像処理に携わり、カメラ、照明の選定や画像処理プログラムの作成に取り組みました。C言語ライブラリをRustやPythonから扱う方法を自力で学びました。
           </p>
         </section>
 
