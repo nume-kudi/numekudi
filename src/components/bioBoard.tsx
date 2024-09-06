@@ -18,7 +18,7 @@ const BioBoard = () => {
           <img src={catImagePath} className="max-w-full h-auto" />
         </div>
         <div className="flex-grow">
-          <div className="flex flex-col text-gray-800 px-4 py-8 w-full space-y-4">
+          <div className="flex flex-col text-gray-800 px-4 py-8 w-full space-y-12">
             {BIO_CONTENTS.map((e) => {
               return (
                 <div className="flex w-full flex-wrap space-x-4">
