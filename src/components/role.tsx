@@ -10,7 +10,7 @@ const Role = () => {
         <section className="p-4 bg-white bg-opacity-10 rounded-lg shadow-md">
           <h2 className="text-2xl font-semibold text-gray-800">大学時代</h2>
           <p className="text-gray-700">
-            大学では、機械学習を研究し、エッジデバイスで特定の音声を検出する技術に取り組んでいました。学部は情報系ではないです。
+            大学では、機械学習を研究し、エッジデバイスで特定の音声を検出する技術に取り組んでいました。学部は環境科学です。
           </p>
         </section>
 
@@ -24,7 +24,9 @@ const Role = () => {
 
         {/* Web開発時代 */}
         <section className="p-4  rounded-lg shadow-md">
-          <h2 className="text-2xl font-semibold text-gray-800">Web開発</h2>
+          <h2 className="text-2xl font-semibold text-gray-800">
+            Web開発時代（now）
+          </h2>
           <p className="text-gray-700">
             Web開発に携わり、生成AIをテーマにしたToBプロダクトを開発。PoCと本開発ではJavaScript/TypeScript,
             Pythonを使用しました。
